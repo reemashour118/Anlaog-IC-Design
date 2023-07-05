@@ -1,4 +1,4 @@
-# Anlaog-IC-Design-
+# Anlaog-IC-Design
 i attached three progects pdf description.
 i attached the three projects pdf reports.
 i attached the three projects files from cadence design systems circuit simulator(schematic and adexl files).
